@@ -149,3 +149,10 @@ Separate logging files are used for the Observer and Command patterns. Logs incl
 Observer Pattern Log: observer_application.log
 Command Pattern Log: command_application.log
 Logs are written using the java.util.logging package and include timestamps and operation details.
+
+
+
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
